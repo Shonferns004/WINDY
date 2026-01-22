@@ -17,6 +17,7 @@
 </p>
 
 
+<div align="center">
 <h2>📌 Introduction</h2>
 
 <p>
@@ -115,6 +116,7 @@ npm run dev</code></pre>
 <p>
   If you like this project, please give it a ⭐ on GitHub!
 </p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=30&fontColor=fff&gradient=3DDC84-0D47A1&font=Consolas" />
