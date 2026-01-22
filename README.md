@@ -1,23 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=WINDY!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55&gradient=0D47A1-3DDC84&font=Consolas" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=200&section=header&text=WINDY!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55&gradient=0D47A1-3DDC84&font=Consolas" />
 </p>
 </div>
 
 <!-- markdownlint-disable MD033 MD041 -->
-
-<h1 align="center">🌬️ WINDY – Weather AI Project</h1>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?lines=AI+Powered+Weather+App;Full+Stack+Web+Application;React+%2B+Mastra+AI;Progressive+Web+App+(PWA);Live+Weather+Demo&font=Fira%20Code&center=true&width=550&height=50&duration=4000&pause=1000"
     alt="Typing SVG"
   />
 </p>
-
-<p align="center">
-  🌦️ A modern AI-powered weather application built with modern web technologies
-</p>
-
 <p align="center">
   <a href="https://windy-pazzago.vercel.app">
     🔗 <strong>Live Demo</strong>
