@@ -16,6 +16,18 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1G-XdUSKR0kExMA1UFCLCU6k4SsjfRid1/view?usp=sharing">
+    🔗 <strong>Documentation</strong>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://res.cloudinary.com/dc8e6gchd/video/upload/v1769118717/0123_p9iie9.mp4">
+    🔗 <strong>Demo Video</strong>
+  </a>
+</p>
+
 
 
 <h2>📌 Introduction</h2>
