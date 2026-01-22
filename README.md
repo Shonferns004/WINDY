@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=36&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+👋;I'm+Shon+Fernandes;Android+%7C+Full-Stack+Dev;Open-Source+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=WINDY!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55&gradient=0D47A1-3DDC84&font=Consolas" />
+</p>
 </div>
 
 <!-- markdownlint-disable MD033 MD041 -->
@@ -120,9 +121,10 @@ npm run dev</code></pre>
   If you like this project, please give it a ⭐ on GitHub!
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shawnferns-004&color=3DDC84&style=flat-square" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=30&fontColor=fff&gradient=3DDC84-0D47A1&font=Consolas" />
+</p>
+
 
 
 <!-- markdownlint-enable MD033 -->
