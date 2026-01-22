@@ -17,7 +17,7 @@
 </p>
 
 
-<div align="center">
+
 <h2>📌 Introduction</h2>
 
 <p>
@@ -112,7 +112,7 @@ npm run dev</code></pre>
 </p>
 
 <br>
-
+<div align="center">
 <p>
   If you like this project, please give it a ⭐ on GitHub!
 </p>
