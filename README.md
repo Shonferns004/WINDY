@@ -19,7 +19,6 @@
   </a>
 </p>
 
-<hr />
 
 <h2>📌 Introduction</h2>
 
@@ -34,7 +33,6 @@
   <li>🌦️ Weather API – Data source</li>
 </ul>
 
-<hr />
 
 <h2>🚀 Features</h2>
 
@@ -114,26 +112,8 @@ npm run dev</code></pre>
 
 <hr />
 
-<h2>👤 Author</h2>
-
-<p>
-  <strong>Shon</strong><br />
-  GitHub:
-  <a href="https://github.com/Shonferns004">
-    @Shonferns004
-  </a>
-</p>
-
-<hr />
-
-<h2>⭐ Support</h2>
-
 <p>
   If you like this project, please give it a ⭐ on GitHub!
-</p>
-
-<p align="center">
-  Made with ❤️ using React, Mastra AI & modern web tools
 </p>
 
 <!-- markdownlint-enable MD033 -->
