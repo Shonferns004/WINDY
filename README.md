@@ -1,6 +1,6 @@
 # 🌬️ WINDY – Weather AI Project
 
-🔗 **Live Demo:** windy-pazzago.vercel.app   
+🔗 **Live Demo:** https://windy-pazzago.vercel.app   
 
 ---
 
