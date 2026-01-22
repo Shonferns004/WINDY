@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=36&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+👋;I'm+Shon+Fernandes;Android+%7C+Full-Stack+Dev;Open-Source+Enthusiast" alt="Typing SVG" />
+</div>
+
 <!-- markdownlint-disable MD033 MD041 -->
 
 <h1 align="center">🌬️ WINDY – Weather AI Project</h1>
@@ -115,5 +119,10 @@ npm run dev</code></pre>
 <p>
   If you like this project, please give it a ⭐ on GitHub!
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shawnferns-004&color=3DDC84&style=flat-square" alt="Profile Views" />
+</div>
+
 
 <!-- markdownlint-enable MD033 -->
