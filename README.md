@@ -32,7 +32,8 @@
   <li>🌦️ Weather API – Data source</li>
 </ul>
 <br>
-<br>
+
+
 <h2>🚀 Features</h2>
 
 <table>
@@ -62,7 +63,7 @@
   </tr>
 </table>
 
-<hr />
+<br>
 
 <h2>⚙️ Run Locally</h2>
 
@@ -85,7 +86,7 @@ npm run dev</code></pre>
 
 </details>
 
-<hr />
+<br>
 
 <h2>📱 PWA Support</h2>
 
@@ -96,7 +97,7 @@ npm run dev</code></pre>
   <li>✔️ App-like experience</li>
 </ul>
 
-<hr />
+<br>
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -109,7 +110,7 @@ npm run dev</code></pre>
   <kbd>Mastra AI</kbd>
 </p>
 
-<hr />
+<br>
 
 <p>
   If you like this project, please give it a ⭐ on GitHub!
