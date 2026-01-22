@@ -137,4 +137,34 @@ npm start   --> production
 - Node.js
 - TypeScript
 - Mastra AI
-- npm  
+- npm
+
+
+<h1 align="center">Welcome to WINDY 👋</h1>
+<p>
+</p>
+
+> WINDY is a full-stack weather application.
+
+### 🏠 [Homepage](The project is built using modern web tools)
+
+### ✨ [Demo](https://windy-pazzago.vercel.app)
+
+## Install
+
+```sh
+npm install
+```
+
+## Author
+
+👤 **Shon**
+
+* Github: [@Shonferns004](https://github.com/Shonferns004)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
