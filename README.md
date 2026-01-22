@@ -24,13 +24,15 @@
   real-time weather information using a modern frontend and an intelligent backend.
 </p>
 
+
+
 <ul>
   <li>🖥️ Frontend – User Interface</li>
-  <li>🧠 Backend – AI-powered logic</li>
+  <li>🧠 Backend – Mastra AI</li>
   <li>🌦️ Weather API – Data source</li>
 </ul>
-
-
+<br>
+<br>
 <h2>🚀 Features</h2>
 
 <table>
