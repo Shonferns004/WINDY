@@ -3,7 +3,7 @@ export async function askWeatherAgent(prompt, chatId, onToken) {
 
   const res = await fetch(
     // "http://localhost:4111/api/agents/weather-agent/stream",
-    "https://windy-agent-1.onrender.com/api/agents/weather-agent/stream",
+    "https://windy-6u6v.onrender.com/api/agents/weather-agent/stream",
     {
       method: "POST",
       headers: {
