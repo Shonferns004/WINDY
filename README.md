@@ -1,181 +1,139 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>WINDY – Weather AI Project</title>
-</head>
+<!-- markdownlint-disable MD033 MD041 -->
 
-<body>
+<h1 align="center">🌬️ WINDY – Weather AI Project</h1>
 
-  <h1 align="center">🌬️ WINDY – Weather AI Project</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=AI+Powered+Weather+App;Full+Stack+Web+Application;React+%2B+Mastra+AI;Progressive+Web+App+(PWA);Live+Weather+Demo&font=Fira%20Code&center=true&width=550&height=50&duration=4000&pause=1000"
+    alt="Typing SVG"
+  />
+</p>
 
-  <p align="center">
-    <img 
-      src="https://readme-typing-svg.demolab.com/?lines=AI+Powered+Weather+App;Full+Stack+Web+Application;React+%2B+Mastra+AI;Progressive+Web+App+(PWA);Live+Weather+Demo&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000"
-      alt="Typing SVG"
-    />
-  </p>
+<p align="center">
+  🌦️ A modern AI-powered weather application built with modern web technologies
+</p>
 
-  <p align="center">
-    🌦️ A modern full-stack weather application with AI intelligence
-  </p>
+<p align="center">
+  <a href="https://windy-pazzago.vercel.app">
+    🔗 <strong>Live Demo</strong>
+  </a>
+</p>
 
-  <p align="center">
-    🔗 <strong>Live Demo:</strong>
-    <a href="https://windy-pazzago.vercel.app" target="_blank">
-      https://windy-pazzago.vercel.app
-    </a>
-  </p>
+<hr />
 
-  <hr />
+<h2>📌 Introduction</h2>
 
-  <h2>📌 Introduction</h2>
+<p>
+  <strong>WINDY</strong> is a full-stack weather application that provides
+  real-time weather information using a modern frontend and an intelligent backend.
+</p>
 
-  <p>
-    WINDY is a <strong>full-stack weather application</strong> that displays
-    weather information using a modern frontend and an AI-powered backend.
-  </p>
+<ul>
+  <li>🖥️ Frontend – User Interface</li>
+  <li>🧠 Backend – AI-powered logic</li>
+  <li>🌦️ Weather API – Data source</li>
+</ul>
 
-  <p>
-    The application uses intelligent logic to process weather data and present
-    it in a clean and user-friendly interface.
-  </p>
+<hr />
 
-  <ul>
-    <li>🖥️ Frontend – What the user sees</li>
-    <li>🧠 Backend – Smart brain of the app</li>
-    <li>🌦️ Weather API – Data source</li>
-  </ul>
+<h2>🚀 Features</h2>
 
-  <hr />
+<table>
+  <tr>
+    <th>Feature</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🔍 Message Search</td>
+    <td>Search messages quickly using keywords</td>
+  </tr>
+  <tr>
+    <td>📱 PWA Support</td>
+    <td>Installable app with offline support</td>
+  </tr>
+  <tr>
+    <td>📤 Export Chat History</td>
+    <td>Download conversations for records</td>
+  </tr>
+  <tr>
+    <td>👍 Message Reactions</td>
+    <td>Emoji-based feedback system</td>
+  </tr>
+  <tr>
+    <td>⌨️ Typing Indicators</td>
+    <td>Shows real-time typing status</td>
+  </tr>
+</table>
 
-  <h2>🌐 Live Demo</h2>
+<hr />
 
-  <p>
-    You can view and use the live working version of the project here:
-  </p>
+<h2>⚙️ Run Locally</h2>
 
-  <p>
-    🔗 <strong>Live Demo Link:</strong>
-    <a href="https://windy-pazzago.vercel.app" target="_blank">
-      https://windy-pazzago.vercel.app
-    </a>
-  </p>
+<details>
+  <summary><strong>Click to view setup steps</strong></summary>
 
-  <ul>
-    <li>Real-time weather updates</li>
-    <li>Clean and responsive UI</li>
-    <li>Fast performance</li>
-    <li>PWA install support</li>
-    <li>No local setup required</li>
-  </ul>
-
-  <hr />
-
-  <h2>🖥️ Client (Frontend)</h2>
-
-  <p>
-    The frontend of WINDY is built using <strong>React</strong> and
-    <strong>Vite</strong>.
-  </p>
-
-  <h3>🛠️ Technologies Used</h3>
-  <ul>
-    <li>React</li>
-    <li>Vite</li>
-    <li>Tailwind CSS</li>
-    <li>JavaScript</li>
-  </ul>
-
-  <hr />
-
-  <h2>⚙️ How to Run the Project Locally</h2>
-
-  <h3>1️⃣ Clone the Repository</h3>
+  <h4>1️⃣ Clone Repository</h4>
   <pre><code>git clone &lt;repository-url&gt;
 cd WINDY-main</code></pre>
 
-  <h3>2️⃣ Start the Server</h3>
+  <h4>2️⃣ Start Server</h4>
   <pre><code>cd server
 npm install
 npm run dev</code></pre>
 
-  <h3>3️⃣ Start the Client</h3>
+  <h4>3️⃣ Start Client</h4>
   <pre><code>cd client
 npm install
-npm run dev    # development
-npm start      # production</code></pre>
+npm run dev</code></pre>
 
-  <hr />
+</details>
 
-  <h2>🚀 Features</h2>
+<hr />
 
-  <ul>
-    <li>
-      🔍 <strong>Message Search Functionality</strong>
-      <ul>
-        <li>Search messages using keywords</li>
-        <li>Quickly find old conversations</li>
-      </ul>
-    </li>
+<h2>📱 PWA Support</h2>
 
-    <li>
-      📱 <strong>Progressive Web App (PWA)</strong>
-      <ul>
-        <li>Installable on mobile and desktop</li>
-        <li>Works offline</li>
-        <li>Fast and app-like experience</li>
-      </ul>
-    </li>
+<ul>
+  <li>✔️ Installable on mobile & desktop</li>
+  <li>✔️ Works offline using cache</li>
+  <li>✔️ Faster load time</li>
+  <li>✔️ App-like experience</li>
+</ul>
 
-    <li>
-      📤 <strong>Export Chat History</strong>
-      <ul>
-        <li>Download and save chat history</li>
-        <li>Useful for records and sharing</li>
-      </ul>
-    </li>
+<hr />
 
-    <li>
-      👍 <strong>Message Reactions</strong>
-      <ul>
-        <li>Emoji-based feedback</li>
-        <li>Better interaction</li>
-      </ul>
-    </li>
+<h2>🛠️ Tech Stack</h2>
 
-    <li>
-      ⌨️ <strong>Typing Indicators</strong>
-      <ul>
-        <li>Shows when users are typing</li>
-        <li>Improves real-time experience</li>
-      </ul>
-    </li>
-  </ul>
+<p>
+  <kbd>React</kbd>
+  <kbd>Vite</kbd>
+  <kbd>Tailwind</kbd>
+  <kbd>Node.js</kbd>
+  <kbd>TypeScript</kbd>
+  <kbd>Mastra AI</kbd>
+</p>
 
-  <hr />
+<hr />
 
-  <h2>👤 Author</h2>
+<h2>👤 Author</h2>
 
-  <p>
-    <strong>Shon</strong><br />
-    GitHub:
-    <a href="https://github.com/Shonferns004" target="_blank">
-      @Shonferns004
-    </a>
-  </p>
+<p>
+  <strong>Shon</strong><br />
+  GitHub:
+  <a href="https://github.com/Shonferns004">
+    @Shonferns004
+  </a>
+</p>
 
-  <hr />
+<hr />
 
-  <h2>⭐ Show Your Support</h2>
+<h2>⭐ Support</h2>
 
-  <p>
-    Give a ⭐️ if you like this project!
-  </p>
+<p>
+  If you like this project, please give it a ⭐ on GitHub!
+</p>
 
-  <p align="center">
-    Made with ❤️ using React, Mastra AI & modern web tools
-  </p>
+<p align="center">
+  Made with ❤️ using React, Mastra AI & modern web tools
+</p>
 
-</body>
-</html>
+<!-- markdownlint-enable MD033 -->
