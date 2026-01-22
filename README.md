@@ -113,6 +113,12 @@ npm start   --> production
   - Helps quickly find old conversations
   - Improves usability and efficiency
 
+- 📱 **Progressive Web App (PWA) Support**
+  - The application can be installed on mobile and desktop devices
+  - Works offline using cached resources
+  - Loads faster and improves performance
+  - Provides app-like experience using browser
+
 - 📤 **Export Chat History**
   - Allows users to download chat history
   - Chats can be saved for future reference
