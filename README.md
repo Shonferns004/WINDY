@@ -62,10 +62,6 @@ The client is built using **React** and **Vite**.
 - Vite
 - Tailwind CSS
 - JavaScript
-
-👉 Example:  
-React is like LEGO blocks. Small pieces are joined to build the full website.
-
 ---
 
 ## 🧠 Server (Backend)
