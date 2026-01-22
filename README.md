@@ -2,7 +2,6 @@
 
 🔗 **Live Demo:** https://windy-pazzago.vercel.app   
 
----
 
 ## 📌 Introduction
 
@@ -17,7 +16,6 @@ The project is divided into two main parts:
 - 🧠 Server = Brain of the app  
 - 🌦️ Weather API = Information source  
 
----
 
 ## 🌐 Live Demo
 
@@ -32,7 +30,7 @@ You can view and use the live working version of the project here:
 - Backend powered by Mastra AI
 - No installation required to test the app
 
----
+
 
 ## 📂 Project Structure
 
@@ -61,7 +59,7 @@ The client is built using **React** and **Vite**.
 - Vite
 - Tailwind CSS
 - JavaScript
----
+
 
 ## 🧠 Server (Backend)
 
@@ -134,7 +132,6 @@ npm start   --> production
   - Makes the chat experience real-time
   - Enhances user engagement
   
----
 
 ### 🛠️ Technologies Used
 - Node.js
