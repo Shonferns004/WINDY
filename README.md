@@ -1,170 +1,181 @@
-# 🌬️ WINDY – Weather AI Project
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>WINDY – Weather AI Project</title>
+</head>
 
-🔗 **Live Demo:** https://windy-pazzago.vercel.app   
+<body>
 
+  <h1 align="center">🌬️ WINDY – Weather AI Project</h1>
 
-## 📌 Introduction
+  <p align="center">
+    <img 
+      src="https://readme-typing-svg.demolab.com/?lines=AI+Powered+Weather+App;Full+Stack+Web+Application;React+%2B+Mastra+AI;Progressive+Web+App+(PWA);Live+Weather+Demo&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000"
+      alt="Typing SVG"
+    />
+  </p>
 
-WINDY is a **full-stack weather application** that displays weather information using a modern frontend and an AI-powered backend.
+  <p align="center">
+    🌦️ A modern full-stack weather application with AI intelligence
+  </p>
 
-The project is divided into two main parts:
-- **Client (Frontend)** – What the user sees
-- **Server (Backend)** – Handles logic and AI processing
+  <p align="center">
+    🔗 <strong>Live Demo:</strong>
+    <a href="https://windy-pazzago.vercel.app" target="_blank">
+      https://windy-pazzago.vercel.app
+    </a>
+  </p>
 
-👉 Think of it like:
-- 🖥️ Client = Face of the app  
-- 🧠 Server = Brain of the app  
-- 🌦️ Weather API = Information source  
+  <hr />
 
+  <h2>📌 Introduction</h2>
 
-## 🌐 Live Demo
+  <p>
+    WINDY is a <strong>full-stack weather application</strong> that displays
+    weather information using a modern frontend and an AI-powered backend.
+  </p>
 
-You can view and use the live working version of the project here:
+  <p>
+    The application uses intelligent logic to process weather data and present
+    it in a clean and user-friendly interface.
+  </p>
 
-🔗 **Live Demo Link:** https://your-live-demo-link-here
+  <ul>
+    <li>🖥️ Frontend – What the user sees</li>
+    <li>🧠 Backend – Smart brain of the app</li>
+    <li>🌦️ Weather API – Data source</li>
+  </ul>
 
-### What You Can See in the Demo:
-- Weather information displayed on the screen
-- Clean and responsive user interface
-- Frontend built using React and Vite
-- Backend powered by Mastra AI
-- No installation required to test the app
+  <hr />
 
+  <h2>🌐 Live Demo</h2>
 
+  <p>
+    You can view and use the live working version of the project here:
+  </p>
 
-## 📂 Project Structure
+  <p>
+    🔗 <strong>Live Demo Link:</strong>
+    <a href="https://windy-pazzago.vercel.app" target="_blank">
+      https://windy-pazzago.vercel.app
+    </a>
+  </p>
 
-```
-WINDY-main/
-│
-├── client/ → Frontend (User Interface)
-│
-└── server/ → Backend (AI logic & APIs)
+  <ul>
+    <li>Real-time weather updates</li>
+    <li>Clean and responsive UI</li>
+    <li>Fast performance</li>
+    <li>PWA install support</li>
+    <li>No local setup required</li>
+  </ul>
 
-```
+  <hr />
 
-## 🖥️ Client (Frontend)
+  <h2>🖥️ Client (Frontend)</h2>
 
-The client is built using **React** and **Vite**.
+  <p>
+    The frontend of WINDY is built using <strong>React</strong> and
+    <strong>Vite</strong>.
+  </p>
 
-### 📁 Important Client Files
-- `src/` – React components and logic
-- `index.html` – Main HTML file
-- `vite.config.js` – Vite configuration
-- `tailwind.config.js` – Styling configuration
-- `.example_env` – Example environment variables
+  <h3>🛠️ Technologies Used</h3>
+  <ul>
+    <li>React</li>
+    <li>Vite</li>
+    <li>Tailwind CSS</li>
+    <li>JavaScript</li>
+  </ul>
 
-### 🛠️ Technologies Used
-- React
-- Vite
-- Tailwind CSS
-- JavaScript
+  <hr />
 
+  <h2>⚙️ How to Run the Project Locally</h2>
 
-## 🧠 Server (Backend)
+  <h3>1️⃣ Clone the Repository</h3>
+  <pre><code>git clone &lt;repository-url&gt;
+cd WINDY-main</code></pre>
 
-The server handles backend logic using **Mastra AI**.
-
-### 📁 Important Server Files
-```
-server/
-│
-├── src/mastra/
-│ ├── agents/ → AI agents
-│ ├── tools/ → Tools used by agents
-│ ├── workflows/ → Step-by-step task flow
-│
-├── mastra.config.ts
-├── package.json
-```
-
-## ⚙️ How to Run the Project Locally
-
-### 1️⃣ Clone the Repository
-```bash
-git clone <repository-url>
-cd WINDY-main
-```
-
-## 2️⃣ Start the Server
-
-```bash
-cd server
+  <h3>2️⃣ Start the Server</h3>
+  <pre><code>cd server
 npm install
-npm run dev
-```
+npm run dev</code></pre>
 
-
-## 3️⃣ Start the Client
-
-```bash
-cd server
+  <h3>3️⃣ Start the Client</h3>
+  <pre><code>cd client
 npm install
-npm run dev --> devlopment
-npm start   --> production
-```
+npm run dev    # development
+npm start      # production</code></pre>
 
-## 🚀 Features
+  <hr />
 
-- 🔍 **Message Search Functionality**
-  - Users can search messages using keywords
-  - Helps quickly find old conversations
-  - Improves usability and efficiency
+  <h2>🚀 Features</h2>
 
-- 📱 **Progressive Web App (PWA) Support**
-  - The application can be installed on mobile and desktop devices
-  - Works offline using cached resources
-  - Loads faster and improves performance
-  - Provides app-like experience using browser
+  <ul>
+    <li>
+      🔍 <strong>Message Search Functionality</strong>
+      <ul>
+        <li>Search messages using keywords</li>
+        <li>Quickly find old conversations</li>
+      </ul>
+    </li>
 
-- 📤 **Export Chat History**
-  - Allows users to download chat history
-  - Chats can be saved for future reference
-  - Useful for documentation and records
+    <li>
+      📱 <strong>Progressive Web App (PWA)</strong>
+      <ul>
+        <li>Installable on mobile and desktop</li>
+        <li>Works offline</li>
+        <li>Fast and app-like experience</li>
+      </ul>
+    </li>
 
-- 👍 **Message Reactions / Feedback**
-  - Users can react to messages using emojis
-  - Reduces the need for extra replies
-  - Improves interaction and user experience
+    <li>
+      📤 <strong>Export Chat History</strong>
+      <ul>
+        <li>Download and save chat history</li>
+        <li>Useful for records and sharing</li>
+      </ul>
+    </li>
 
-- ⌨️ **Typing Indicators**
-  - Shows when another user is typing
-  - Makes the chat experience real-time
-  - Enhances user engagement
-  
+    <li>
+      👍 <strong>Message Reactions</strong>
+      <ul>
+        <li>Emoji-based feedback</li>
+        <li>Better interaction</li>
+      </ul>
+    </li>
 
-### 🛠️ Technologies Used
-- Node.js
-- TypeScript
-- Mastra AI
-- npm
+    <li>
+      ⌨️ <strong>Typing Indicators</strong>
+      <ul>
+        <li>Shows when users are typing</li>
+        <li>Improves real-time experience</li>
+      </ul>
+    </li>
+  </ul>
 
+  <hr />
 
-<h1 align="center">Welcome to WINDY 👋</h1>
-<p>
-</p>
+  <h2>👤 Author</h2>
 
-> WINDY is a full-stack weather application.
+  <p>
+    <strong>Shon</strong><br />
+    GitHub:
+    <a href="https://github.com/Shonferns004" target="_blank">
+      @Shonferns004
+    </a>
+  </p>
 
-### 🏠 [Homepage](The project is built using modern web tools)
+  <hr />
 
-### ✨ [Demo](https://windy-pazzago.vercel.app)
+  <h2>⭐ Show Your Support</h2>
 
-## Install
+  <p>
+    Give a ⭐️ if you like this project!
+  </p>
 
-```sh
-npm install
-```
+  <p align="center">
+    Made with ❤️ using React, Mastra AI & modern web tools
+  </p>
 
-## Author
-
-👤 **Shon**
-
-* Github: [@Shonferns004](https://github.com/Shonferns004)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+</body>
+</html>
