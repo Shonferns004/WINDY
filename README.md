@@ -1,7 +1,6 @@
 # 🌬️ WINDY – Weather AI Project
 
-🔗 **Live Demo:** https://your-live-demo-link-here  
-📦 **GitHub Repository:** https://github.com/your-username/WINDY  
+🔗 **Live Demo:** windy-pazzago.vercel.app   
 
 ---
 
